@@ -34,6 +34,11 @@ Mide el aumento en los accesos con mayor velocidad lo que es benéfico tanto par
  El repositorio consta de una carpeta con la Data la cual contiene los archivos csv que exportamos después de hacer el EDA y usamos en el Dashboard.
  Un Notebook con el EDA.
  Un archivo de Power bi con el Dashboard.
+ Este archvio 
+
+ ## Presenta 
+ Jorge Miranda Teyssier 
+ Analista de datos
  
 
 
